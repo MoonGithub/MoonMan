@@ -1,0 +1,5 @@
+C:\appHarbor\MoonMan\MoonMan\bin\MoonMan.dll
+C:\appHarbor\MoonMan\MoonMan\bin\MoonMan.pdb
+C:\appHarbor\MoonMan\MoonMan\obj\Debug\ResolveAssemblyReference.cache
+C:\appHarbor\MoonMan\MoonMan\obj\Debug\MoonMan.dll
+C:\appHarbor\MoonMan\MoonMan\obj\Debug\MoonMan.pdb
